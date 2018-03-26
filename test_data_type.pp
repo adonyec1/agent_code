@@ -1,4 +1,5 @@
-$test_var = $facts
+#$test_var = $facts
+$test_var = 'Some values'
 
 case $test_var {
   Hash: {
